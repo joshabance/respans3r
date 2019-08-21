@@ -7,6 +7,11 @@ Simple HTTP Response GRABBER
 ## Requirements
 * Python 3.x
 * Windows / Linux / Unix OS
+### Python Modules Requirements
+* os, sys, platform
+* colorama
+* requests
+* socket
 
 ## Sample Output
 ![respans3r Sample Output](/test.png)
